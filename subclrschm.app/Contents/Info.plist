@@ -12,7 +12,7 @@
 <key>CFBundleDisplayName</key>
 <string>subclrschm</string>
 <key>CFBundleIconFile</key>
-<string>icon-windowed.icns</string>
+<string>subclrschm.icns</string>
 <key>CFBundlePackageType</key>
 <string>APPL</string>
 <key>LSBackgroundOnly</key>
